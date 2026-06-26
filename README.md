@@ -12,4 +12,4 @@ Esta página web fue creada con:
 + JavaScript
 
 ## Demo 💻
-Puedes entrar a ver el demo en el siguiente vínculo [Adivina el número](adivina-el-numerosecreto.netlify.app)
+Puedes entrar a ver el demo en el siguiente vínculo [Adivina el número](https://adivina-el-numerosecreto.netlify.app/)
