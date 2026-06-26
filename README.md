@@ -1,5 +1,5 @@
 # Adivina el número 
-👩🏽‍💻 Página web creada con HTML5, CSS y JavaScript 👩🏽‍💻
+👩🏽‍💻 Página web creada con HTML, CSS y JavaScript 👩🏽‍💻
 ## Introducción 📖
 Este proyecto consistió en una práctica donde puse a prueba mis habilidades en tecnologías como HTML para estructurar la página, CSS para darle estilo y JavaScript para asignarle dinamismo.
 ## ¿Qué construí? 🧱
